@@ -264,12 +264,12 @@ img{
         width: inherit;
     }
 
-    .videoGames img{
+    .galleryLearn img{
         height: 180px;
     }
 
-    .galleryLearn img{
-        height: 180px;
+    .App body section{
+        padding-top: 60px;
     }
 
 }
@@ -277,19 +277,19 @@ img{
 @media screen and (max-width: 400px){
 
     .galleryGames, .galleryLearn{
-        height: 150px;
+        height: 160px;
         
     }
 
-    .galleryGames img{
-        height: 150px;
+    .videoGames img{
+        height: 200px;
     }
 
-    .videoGames img{
-        height: 150px;
+    .galleryGames img{
+        height: 160px;
     }
 
     .galleryLearn img{
-        height: 150px;
+        height: 160px;
     }
 }
