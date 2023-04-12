@@ -1,0 +1,6 @@
+.musicalTastes{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 200px;
+    padding-bottom: 50px;
+}

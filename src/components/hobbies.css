@@ -1,0 +1,18 @@
+.hobbies{
+    padding-top: 130px;
+}
+
+.hobbies .title{
+    font-size: 50px;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.sports, .videoGames{
+    display: flex;
+    height: auto;
+}
+
+.videoGames{
+    margin-bottom: 100px;
+}
